@@ -18,6 +18,7 @@ The analytical sample was constructed by progressively combining the required ag
 ![Sample selection flow](figures/sample_selection_flow.png)
 
 *Figure 1. Sample selection for the primary analytical sample.*
+
 What I Did
 
 The project involved working with multiple longitudinal and geographical datasets from the Millennium Cohort Study.
