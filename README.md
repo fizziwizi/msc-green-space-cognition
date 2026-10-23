@@ -11,7 +11,13 @@ Research Question
 Is neighbourhood green-space exposure at age 3 associated with cognitive performance at age 5 after accounting for socioeconomic background and the Home Learning Environment?
 
 The project also examined whether the association differed between verbal and non-verbal cognitive outcomes and whether the findings remained consistent after geographical and survey-design adjustments.
+## Study Sample
 
+The analytical sample was constructed by progressively combining the required age-3 background and Home Learning Environment measures with age-5 cognitive outcomes and the primary neighbourhood green-space exposure measure.
+
+![Sample selection flow](figures/sample_selection_flow.png)
+
+*Figure 1. Sample selection for the primary analytical sample.*
 What I Did
 
 The project involved working with multiple longitudinal and geographical datasets from the Millennium Cohort Study.
