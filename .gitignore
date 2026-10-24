@@ -1,0 +1,15 @@
+# UK Millennium Cohort Study data
+MCS_DATA/
+*.sav
+
+# Participant-level derived data
+primary_final.pkl
+*.pkl
+
+# Python / Jupyter temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
