@@ -97,6 +97,22 @@ The original MCS data and participant-level derived datasets are not included in
 
 Researchers with appropriate authorised access to the required MCS datasets can use the notebooks to reproduce the analytical workflow after placing the required source data in the expected local data structure.
 
+## Reproducibility
+
+The analysis notebooks are provided to document the complete analytical workflow used for this project.
+
+The Millennium Cohort Study (MCS) data are not included in this repository because access is governed by the UK Data Service licence. Researchers with appropriate access can obtain the required MCS datasets through the UK Data Service.
+
+To reproduce the analysis:
+
+1. Clone or download this repository.
+2. Create a folder named `MCS_DATA` in the project directory.
+3. Place the authorised MCS source data files required by the analysis inside `MCS_DATA`.
+4. Run `01_dissertation_analysis_clean_annotated.ipynb` to perform the main data preparation and statistical analysis.
+5. Run `02_dissertation_results_tables.ipynb` after the first notebook to reproduce the final results tables.
+
+The first notebook generates the derived analytical dataset used by the second notebook. Participant-level source and derived data are intentionally excluded from the public repository.
+
 Dissertation
 
 This project was completed as part of the MSc Data Science programme at the University of Surrey.
