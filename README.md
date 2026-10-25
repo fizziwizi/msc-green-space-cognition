@@ -79,6 +79,19 @@ Technologies
 * Matplotlib
 * pyreadstat
 
+  ## Skills Demonstrated
+
+- Longitudinal data preparation and linkage
+- Cleaning and integration of large-scale survey datasets
+- Feature engineering and composite-variable construction
+- Exploratory data analysis and data visualisation
+- Hierarchical multiple regression
+- Statistical diagnostics and model validation
+- Robustness and sensitivity analysis
+- Complex survey design adjustment
+- Reproducible research workflows in Python and Jupyter
+- Interpretation and communication of observational research findings
+
 Repository Contents
 
 01_dissertation_analysis_clean_annotated.ipynb
