@@ -1,4 +1,4 @@
-Neighbourhood Green-Space Exposure and Childhood Cognitive Performance
+# Neighbourhood Green-Space Exposure and Childhood Cognitive Performance
 
 MSc Data Science Dissertation | University of Surrey
 
@@ -6,11 +6,12 @@ This project investigates whether neighbourhood green-space exposure at age 3 is
 
 The analysis uses longitudinal secondary data from the UK Millennium Cohort Study (MCS) and examines two cognitive outcomes separately: Naming Vocabulary and Pattern Construction.
 
-Research Question
+## Research Question
 
 Is neighbourhood green-space exposure at age 3 associated with cognitive performance at age 5 after accounting for socioeconomic background and the Home Learning Environment?
 
 The project also examined whether the association differed between verbal and non-verbal cognitive outcomes and whether the findings remained consistent after geographical and survey-design adjustments.
+
 ## Study Sample
 
 The analytical sample was constructed by progressively combining the required age-3 background and Home Learning Environment measures with age-5 cognitive outcomes and the primary neighbourhood green-space exposure measure.
@@ -19,7 +20,7 @@ The analytical sample was constructed by progressively combining the required ag
 
 *Figure 1. Sample selection for the primary analytical sample.*
 
-What I Did
+## What I Did
 
 The project involved working with multiple longitudinal and geographical datasets from the Millennium Cohort Study.
 
@@ -38,7 +39,7 @@ The main stages included:
 
 The final primary analytical sample contained 7,504 children.
 
-Methods
+## Methods
 
 The analytical workflow was organised using an adapted CRISP-DM framework.
 
@@ -56,7 +57,7 @@ The main analytical methods included:
 * complex survey-design adjustment
 * robustness analysis
 
-Key Findings
+## Key Findings
 
 In the primary adjusted analysis, greater neighbourhood green-space exposure was associated with higher Naming Vocabulary performance at age 5.
 
@@ -68,7 +69,7 @@ The findings therefore do not suggest a simple or uniform relationship between n
 
 As this was an observational study, the findings are interpreted as associations rather than causal effects.
 
-Technologies
+## Technologies
 
 * Python
 * Jupyter Notebook
@@ -92,7 +93,7 @@ Technologies
 - Reproducible research workflows in Python and Jupyter
 - Interpretation and communication of observational research findings
 
-Repository Contents
+## Repository Contents
 
 01_dissertation_analysis_clean_annotated.ipynb
 
@@ -102,7 +103,7 @@ Main analysis notebook containing data preparation, variable construction, explo
 
 Produces the final results and tables used in the dissertation.
 
-Data Availability
+## Data Availability
 
 This project uses data from the UK Millennium Cohort Study (MCS) accessed through the UK Data Service.
 
@@ -126,7 +127,7 @@ To reproduce the analysis:
 
 The first notebook generates the derived analytical dataset used by the second notebook. Participant-level source and derived data are intentionally excluded from the public repository.
 
-Dissertation
+## Dissertation
 
 This project was completed as part of the MSc Data Science programme at the University of Surrey.
 
